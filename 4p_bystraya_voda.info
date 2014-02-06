@@ -1,0 +1,161 @@
+HeaderInfo =  
+{
+	scenarioname = "(2 - 4) Bystraya Voda",
+	scenariodescription = "I hope to make this a competitive-worthy primarily 1v1 map, in spirit of Pointe du Hoc from CoH1.\nYour thoughts, feedback, criticism or comments are very welcome!\n\nPlease report any feedback in the appropiate thread on CoH2.org: http://bit.ly/1fa5Zsd",
+	maxplayers = 4,
+	scenarioabbrname = "Bystraya Voda",
+	savedname = "",
+	modname = "RelicCoH2",
+	mapsize =  
+	{
+		320,
+		320,
+	},
+	point_positions =  
+	{
+		 
+		{
+			y = -105.53251,
+			x = -21.79433,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = -101.35066,
+			x = 67.15883,
+			owner_id = 1002,
+			ebp_name = "starting_position_shared_territory",
+		},
+		 
+		{
+			y = -83.68050,
+			x = 106.06958,
+			owner_id = 1003,
+			ebp_name = "starting_position_shared_territory",
+		},
+		 
+		{
+			y = 87.21872,
+			x = -110.48672,
+			owner_id = 1001,
+			ebp_name = "starting_position_shared_territory",
+		},
+		 
+		{
+			y = 108.13190,
+			x = -74.97017,
+			owner_id = 1000,
+			ebp_name = "starting_position_shared_territory",
+		},
+		 
+		{
+			y = -93.74845,
+			x = -101.74165,
+			owner_id = 0,
+			ebp_name = "territory_fuel_point_mp",
+		},
+		 
+		{
+			y = 1.68915,
+			x = -18.13070,
+			owner_id = 0,
+			ebp_name = "territory_munitions_point_mp",
+		},
+		 
+		{
+			y = -42.80602,
+			x = -104.73371,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = 45.07594,
+			x = -49.99387,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = -56.65561,
+			x = 18.68748,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = 107.21943,
+			x = -0.88708,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = -85.27588,
+			x = -75.02647,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = 69.48862,
+			x = 93.60360,
+			owner_id = 0,
+			ebp_name = "territory_munitions_point_mp",
+		},
+		 
+		{
+			y = 44.38138,
+			x = 57.39743,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = 78.91821,
+			x = 33.57569,
+			owner_id = 0,
+			ebp_name = "victory_point",
+		},
+		 
+		{
+			y = -48.01651,
+			x = -69.32348,
+			owner_id = 0,
+			ebp_name = "victory_point",
+		},
+		 
+		{
+			y = 13.42094,
+			x = 72.31477,
+			owner_id = 0,
+			ebp_name = "victory_point",
+		},
+		 
+		{
+			y = -23.53656,
+			x = 69.20962,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = -11.65870,
+			x = 37.89189,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = 56.50887,
+			x = -3.95625,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+	},
+	music = "",
+	default_skin = "winter",
+	version = 2007,
+}
+

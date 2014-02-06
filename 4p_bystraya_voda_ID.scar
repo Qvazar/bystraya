@@ -1,0 +1,10 @@
+function OnInitID()
+
+	-- [[ Markers ]]
+
+	-- [[ Squad Groups ]]
+
+	-- [[ Entity Groups ]]
+	West_Bridge = EGroup_CreateIfNotFound("West_Bridge")
+
+end
