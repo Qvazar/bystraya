@@ -1,7 +1,7 @@
 HeaderInfo =  
 {
 	scenarioname = "(2 - 4) Bystraya Voda",
-	scenariodescription = "I hope to make this a competitive-worthy primarily 1v1 map, in spirit of Pointe du Hoc from CoH1.\nYour thoughts, feedback, criticism or comments are very welcome!\n\nPlease report any feedback in the appropiate thread on CoH2.org: http://bit.ly/1fa5Zsd",
+	scenariodescription = "A dark cold morning in 1943, the two opposing armies meet again at Bystraya Voda.\nEarly war skirmishes has left the village abandoned and the countryside littered with old fortifications.\nFuel is scarce, but key to victory.\n\nPlease report any feedback in the appropiate thread on CoH2.org: http://bit.ly/1fa5Zsd",
 	maxplayers = 4,
 	scenarioabbrname = "Bystraya Voda",
 	savedname = "",
@@ -78,8 +78,8 @@ HeaderInfo =
 		},
 		 
 		{
-			y = -56.65561,
-			x = 18.68748,
+			y = -57.22739,
+			x = 6.33262,
 			owner_id = 0,
 			ebp_name = "territory_point_mp",
 		},
