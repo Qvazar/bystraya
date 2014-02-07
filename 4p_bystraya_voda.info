@@ -64,8 +64,8 @@ HeaderInfo =
 		},
 		 
 		{
-			y = -42.80602,
-			x = -104.73371,
+			y = -15.25197,
+			x = -100.36512,
 			owner_id = 0,
 			ebp_name = "territory_point_mp",
 		},
@@ -78,8 +78,8 @@ HeaderInfo =
 		},
 		 
 		{
-			y = -57.22739,
-			x = 6.33262,
+			y = -53.60373,
+			x = -17.84296,
 			owner_id = 0,
 			ebp_name = "territory_point_mp",
 		},
@@ -92,8 +92,8 @@ HeaderInfo =
 		},
 		 
 		{
-			y = -85.27588,
-			x = -75.02647,
+			y = -83.58660,
+			x = -75.32090,
 			owner_id = 0,
 			ebp_name = "territory_point_mp",
 		},
@@ -141,8 +141,8 @@ HeaderInfo =
 		},
 		 
 		{
-			y = -11.65870,
-			x = 37.89189,
+			y = -10.84120,
+			x = 39.75933,
 			owner_id = 0,
 			ebp_name = "territory_point_mp",
 		},
