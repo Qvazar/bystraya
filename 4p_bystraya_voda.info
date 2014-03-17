@@ -5,12 +5,13 @@ HeaderInfo =
 	maxplayers = 4,
 	scenarioabbrname = "Bystraya Voda",
 	savedname = "",
-	modname = "RelicCoH2",
+	version = 2007,
 	mapsize =  
 	{
 		320,
 		320,
 	},
+	music = "",
 	point_positions =  
 	{
 		 
@@ -78,8 +79,8 @@ HeaderInfo =
 		},
 		 
 		{
-			y = -53.60373,
-			x = -17.84296,
+			y = -52.47118,
+			x = 17.88420,
 			owner_id = 0,
 			ebp_name = "territory_point_mp",
 		},
@@ -154,8 +155,6 @@ HeaderInfo =
 			ebp_name = "territory_point_mp",
 		},
 	},
-	music = "",
 	default_skin = "winter",
-	version = 2007,
 }
 
