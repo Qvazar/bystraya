@@ -1,11 +1,12 @@
 HeaderInfo =  
 {
 	scenarioname = "(2 - 4) Bystraya Voda",
-	scenariodescription = "A dark cold morning in 1943, the two opposing armies meet again at Bystraya Voda.\nEarly war skirmishes has left the village abandoned and the countryside littered with old fortifications.\nFuel is scarce, but key to victory.\n\nPlease report any feedback in the appropiate thread on CoH2.org: http://bit.ly/1fa5Zsd",
+	scenariodescription = "A dark cold morning in 1943, the two opposing armies meet again at Bystraya Voda.\nEarly war skirmishes has left the village abandoned and the countryside littered with old fortifications.\nFuel is scarce, but key to victory.",
 	maxplayers = 4,
+	scenario_battlefront = 3,
 	scenarioabbrname = "Bystraya Voda",
 	savedname = "",
-	version = 2007,
+	version = 2008,
 	mapsize =  
 	{
 		320,
@@ -23,29 +24,29 @@ HeaderInfo =
 		},
 		 
 		{
-			y = -101.35066,
-			x = 67.15883,
+			y = -102.13532,
+			x = 73.01502,
 			owner_id = 1002,
 			ebp_name = "starting_position_shared_territory",
 		},
 		 
 		{
-			y = -83.68050,
-			x = 106.06958,
+			y = -88.94339,
+			x = 115.23895,
 			owner_id = 1003,
 			ebp_name = "starting_position_shared_territory",
 		},
 		 
 		{
-			y = 87.21872,
-			x = -110.48672,
+			y = 97.25674,
+			x = -119.87560,
 			owner_id = 1001,
 			ebp_name = "starting_position_shared_territory",
 		},
 		 
 		{
-			y = 108.13190,
-			x = -74.97017,
+			y = 108.62021,
+			x = -79.74351,
 			owner_id = 1000,
 			ebp_name = "starting_position_shared_territory",
 		},
